@@ -5,3 +5,4 @@ git tracks changes of files.
 Crating a new branch is dev.
 Fast-forward.
 Creating a new branch is quick and simple.
+add merge.
